@@ -8,6 +8,12 @@ You can find the code graphs related to state-by-state comparisons in the file n
 ### Demographics: Race and Educational Attainment
 You can find the code graphs related to race and educational attainment in the file named [dave_workspace.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/dave_workspace.ipynb).
 
+### Demographics: Age
+You can find the code for building DataFrames and results of correlations between total payments and total cases in the file named [Project_2_description (1).ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project_2_description%20(1).ipynb).
+
+### Further Characteristics: Number of Dependents
+You can find the code for building DataFrames and results of correlations between total payments and total cases in the file named [Project_2_description (1).ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project_2_description%20(1).ipynb).
+
 ###  Trends in Child Support Payments Over the Last Ten Years
 You can find the code for building DataFrames and graphs related to child support payment in the file named [Asma-code.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/readme.md?plain=1)
 
@@ -31,6 +37,9 @@ You can find the code for building DataFrames and results of correlations betwee
 
 ### Number of Total Cases and Spend Breakdown
 You can find the code for building DataFrames and graphs related to total cases and spend breakdown in the file named [Asma-code.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/readme.md?plain=1)
+
+### Trends in Obligations (note: this was not included in report or in the presentation)
+You can find the code for building DataFrames and results of correlations between total payments and total cases in the file named [Obligation Graph_Final Project.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Obligation%20Graph_Final%20Project.ipynb).
 
 ### Closing Remarks
 
