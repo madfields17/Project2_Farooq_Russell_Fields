@@ -3,7 +3,7 @@
 Welcome to DATASCI 200! To use this starter repo simply set up your [git client](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) and clone the repo with the SSH link.
 
 ### Links to our proposal, final report, and slide deck
-Proposal:
+Proposal: [Project 2 Proposal (1).pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project%202%20Proposal%20(1).pdf)
 Final Report: 
 Slide Deck:
 
