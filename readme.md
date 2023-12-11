@@ -2,6 +2,11 @@
 
 Welcome to DATASCI 200! To use this starter repo simply set up your [git client](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) and clone the repo with the SSH link.
 
+### Links to our proposal, final report, and slide deck
+Proposal:
+Final Report: 
+Slide Deck:
+
 ### Geographic Analysis
 You can find the code graphs related to state-by-state comparisons in the file named [dave_workspace.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/dave_workspace.ipynb).
 
