@@ -19,7 +19,7 @@ You can find the code graphs related to race and educational attainment in the f
 ### Demographics: Age
 You can find the code for building DataFrames and results of correlations between total payments and total cases in the file named [Project_2_description (1).ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project_2_description%20(1).ipynb).
 
-### Further Characteristics: Number of Dependents
+### Further Characteristics: Number of Dependents(note: this was not included in report or in the presentation)
 You can find the code for building DataFrames and results of correlations between total payments and total cases in the file named [Project_2_description (1).ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project_2_description%20(1).ipynb).
 
 ###  Trends in Child Support Payments Over the Last Ten Years
