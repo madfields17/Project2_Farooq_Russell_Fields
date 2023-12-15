@@ -11,7 +11,8 @@ Slide Deck: [final.Overcoming Child Support Debt_ An Exploratory Data Analysis-3
 [fy_2022_preliminary_data_tables.xlsx](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/fy_2022_preliminary_data_tables.xlsx)
 
 ### Supplemental Datasets are linked in the "References" section and here as well:
-For Demographics: Age mentioned below we used [Census Age and Characteristic Data.csv](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Census%20Age%20and%20Characteristic%20Data.csv)
+For Demographics: Age mentioned below we used [Census Age and Characteristic Data.csv](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Census%20Age%20and%20Characteristic%20Data.csv); for educational attainment we used [educational_attainment.xlsx](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/educational_attainment.xlsx); for race we used [demographic_analysis.xlsx](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/demographic_analysis.xlsx).
+
 
 ### Geographic Analysis
 You can find the code graphs related to state-by-state comparisons in the file named [dave_workspace.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/dave_workspace.ipynb).
@@ -51,6 +52,3 @@ You can find the code for building DataFrames and graphs related to total cases 
 
 ### Trends in Obligations (note: this was not included in report or in the presentation)
 You can find the code for building DataFrames and results of correlations between total payments and total cases in the file named [Obligation Graph_Final Project.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Obligation%20Graph_Final%20Project.ipynb).
-
-### Closing Remarks
-
