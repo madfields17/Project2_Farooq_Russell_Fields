@@ -4,8 +4,8 @@ Welcome to DATASCI 200! To use this starter repo simply set up your [git client]
 
 ### Links to our proposal, final report, and slide deck
 Proposal: [Project 2 Proposal (1).pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project%202%20Proposal%20(1).pdf)
-Final Report: [Overcoming Child Support Debt-2.pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Overcoming%20Child%20Support%20Debt-2.pdf)
-Slide Deck: [Overcoming Child Support Debt_ An Exploratory Data Analysis-2.pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Overcoming%20Child%20Support%20Debt_%20An%20Exploratory%20Data%20Analysis-2.pdf)
+Final Report: [final.Overcoming Child Support Debt-3.pdf]([https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Overcoming%20Child%20Support%20Debt-2.pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/final.Overcoming%20Child%20Support%20Debt-3.pdf))
+Slide Deck: [final.Overcoming Child Support Debt_ An Exploratory Data Analysis-3.pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/final.Overcoming%20Child%20Support%20Debt_%20An%20Exploratory%20Data%20Analysis-3.pdf)
 
 ### Geographic Analysis
 You can find the code graphs related to state-by-state comparisons in the file named [dave_workspace.ipynb](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/dave_workspace.ipynb).
