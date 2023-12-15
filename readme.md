@@ -1,6 +1,6 @@
 # DATASCI 200 Project 2: Overcoming Child Support Debt: An Exploratory Data Analysis
 
-Welcome to DATASCI 200! To use this starter repo simply set up your [git client](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) and clone the repo with the SSH link.
+Welcome to our final project for DATASCI 200! Below you will find the links to the proposal, final report and the slide deck. We have also listed the main datasets we analyzed in this process. Lastly, we have broken down each part of our analysis and supplemental code associated with it. 
 
 ### Links to our proposal, final report, and slide deck
 Proposal: [Project 2 Proposal (1).pdf](https://github.com/madfields17/Project2_Farooq_Russell_Fields/blob/main/Project%202%20Proposal%20(1).pdf)
